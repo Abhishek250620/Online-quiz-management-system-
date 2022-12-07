@@ -1,9 +1,9 @@
 # Online-Quiz-System-in-Java
 Online Quiz system - JDBC, JSP
-Java Project based on JDBC, JSP, Java Servlet and Server Deployment
+Java Project based on JDBC
 
 # Project Aim
-Develop web app using Java for Quiz platform at University level events with the help of Java servlet, JSP & JDBC
+Develop web app using Java for Quiz platform at University level events with the help  JDBC
 
 # Steps of Development
 1. Project Setup
